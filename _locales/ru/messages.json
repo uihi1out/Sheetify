@@ -1,0 +1,86 @@
+{
+  "subheader": {
+    "message": "Сделано с ❤️"
+  },
+  "playbackModeHeader": {
+    "message": "Режим воспроизведения"
+  },
+  "modeLoop": {
+    "message": "Зациклить"
+  },
+  "modePause": {
+    "message": "Остановить"
+  },
+  "remVolume": {
+    "message": "Запоминать громкость"
+  },
+  "remPlaybackSpeed": {
+    "message": "Запоминать скорость"
+  },
+  "reduceRefreshRate": {
+    "message": "Сократить частоту отрисовки"
+  },
+  "hotkeysHeader": {
+    "message": "Горячие клавиши"
+  },
+  "hotkeysPlayPause": {
+    "message": "Воспроизведение/пауза"
+  },
+  "hotkeysSeek": {
+    "message": "Перемотка"
+  },
+  "hotkeysVolume": {
+    "message": "Громкость"
+  },
+  "seekForwardTime": {
+    "message": "Перемотка вперёд (сек)"
+  },
+  "seekBackwardTime": {
+    "message": "Перемотка назад (сек)"
+  },
+  "contactsHeader": {
+    "message": "Контакты"
+  },
+  "twitter": {
+    "message": "Twitter (X)"
+  },
+  "discord": {
+    "message": "Discord"
+  },
+  "github": {
+    "message": "Github"
+  },
+  "email": {
+    "message": "Электронная почта"
+  },
+  "supportDevHeader": {
+    "message": "Поддержать разработку"
+  },
+  "buyMeCoffee": {
+    "message": "Угостить кофе"
+  },
+  "patreon": {
+    "message": "Patreon"
+  },
+  "openSourceLibs": {
+    "message": "Используемые библиотеки"
+  },
+  "failedToLoadAudio": {
+    "message": "Не удалось загрузить аудио"
+  },
+  "downloadFailed": {
+    "message": "Ошибка скачивания"
+  },
+  "downloadStarted": {
+    "message": "Загрузка началась"
+  },
+  "downloadComplete": {
+    "message": "Загрузка завершена"
+  },
+  "filenameAllocationFailed": {
+    "message": "Ошибка выделения имени файла"
+  },
+  "downloadPermissionError": {
+    "message": "Ошибка доступа к скачиванию"
+  }
+}
